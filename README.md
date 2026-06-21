@@ -26,9 +26,3 @@ npm run dev
 ## Build
 
 npm run build
-
-## Credentials
-
-Email: admin@example.com
-
-Password: admin123
